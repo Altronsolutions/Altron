@@ -1955,7 +1955,7 @@ text-align: left;
 
 .panel-group .panel-body {
 	border: none;
-
+	height:120px;
 }
 
 #accordion .accordion-toggle:after {
