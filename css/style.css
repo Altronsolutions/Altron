@@ -1014,7 +1014,7 @@ html[xmlns] .slides {
 
 #facts {
 	background:url(../images/parallax/facts.jpg) no-repeat;
-	padding: 150px 200px 100px;
+	padding: 150px 0px 100px;
 }
 
 .facts-box {
@@ -1025,7 +1025,7 @@ html[xmlns] .slides {
 	font-size: 30px;
 	margin-bottom: 12px;
 	color: #FFF;
-	font-weight: 600;
+	font-weight: 700;
 }
 .facts-box span {
 	color: #FFF;
